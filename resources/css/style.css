@@ -7,6 +7,10 @@ h1 {
   background-color: black;
   color: White;
 }
+body {
+  display: block;
+  background-color: black;
+}
 .download-excursion {
   display: block;
   font-family: Verdana, sans-serif;
@@ -41,4 +45,17 @@ h2 {
   display: block;
   text-align: center;
   background-color: black;
+}
+.phoneimg {
+  display: block;
+  text-align: center;
+  background-color: black;
+}
+.footer {
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+  color: Gray;
+  background-color: black;
+  text-align: right;
+  display: block;
 }
