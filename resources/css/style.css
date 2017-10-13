@@ -1,13 +1,15 @@
 h1 {
   font-size: 50px;
+  font-weight: normal;
   display: block;
   font-family: Verdana, sans-serif;
   text-align: center;
   background-color: black;
   color: White;
 }
-p {
+.download-excursion {
   display: block;
+  font-family: Verdana, sans-serif;
   font-size: 16px;
   color: Aquamarine;
   background-color: black;
@@ -17,4 +19,21 @@ p {
   display: block;
   text-align: center;
   background-color: black;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  display: block;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: White;
+}
+.description {
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+  color: Gray;
+  background-color: black;
+  text-align: center;
+  display: block;
 }
