@@ -31,9 +31,14 @@ h2 {
 }
 .description {
   font-family: Verdana, sans-serif;
-  font-size: 16px;
+  font-size: 21px;
   color: Gray;
   background-color: black;
   text-align: center;
   display: block;
+}
+.picture {
+  display: block;
+  text-align: center;
+  background-color: black;
 }
