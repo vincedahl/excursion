@@ -1,3 +1,4 @@
+
 h1 {
   font-size: 50px;
   display: block;
@@ -5,4 +6,9 @@ h1 {
   text-align: center;
   background-color: black;
   color: White;
+}
+p {
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: center;
 }
